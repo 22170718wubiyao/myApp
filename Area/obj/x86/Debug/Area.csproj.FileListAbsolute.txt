@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\GIS算法\Area\Area\bin\Debug\Area.exe
+C:\Users\Dell\Desktop\GIS算法\Area\Area\bin\Debug\Area.pdb
+C:\Users\Dell\Desktop\GIS算法\Area\Area\obj\x86\Debug\Area.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\GIS算法\Area\Area\obj\x86\Debug\Area.Form1.resources
+C:\Users\Dell\Desktop\GIS算法\Area\Area\obj\x86\Debug\Area.Properties.Resources.resources
+C:\Users\Dell\Desktop\GIS算法\Area\Area\obj\x86\Debug\Area.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\GIS算法\Area\Area\obj\x86\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GIS算法\Area\Area\obj\x86\Debug\Area.exe
+C:\Users\Dell\Desktop\GIS算法\Area\Area\obj\x86\Debug\Area.pdb
